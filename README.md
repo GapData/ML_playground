@@ -1,6 +1,6 @@
 # Machine Learning Playground
 
-## Convolutional Neural Networks
+## <ins>Convolutional Neural Networks</ins>
 
 ## *Building a CNN to classify images from the CIFAR10 dataset*
 * [Jupyter notebook](./CIFAR.ipynb)
